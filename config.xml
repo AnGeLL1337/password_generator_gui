@@ -1,0 +1,15 @@
+<config>
+    <default_theme>dark</default_theme> <!-- dark or light -->
+    <dark_theme> <!-- dark theme -->
+        <color name="dark_color_1">#1e1e1e</color> <!-- background color -->
+        <color name="dark_color_2">#2e2e2e</color> <!-- border color -->
+        <color name="dark_color_3">#ffffff</color> <!-- text color -->
+    </dark_theme>
+    <light_theme> <!-- light theme -->
+        <color name="light_color_1">#f0f0f0</color> <!-- background color -->
+        <color name="light_color_2">#e0e0e0</color> <!-- border color -->
+        <color name="light_color_3">#000000</color> <!-- text color -->
+    </light_theme>
+    <font_size>12</font_size> <!-- font size -->
+    <font_family>Times New Roman</font_family> <!-- font family -->
+</config>
