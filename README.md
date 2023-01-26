@@ -16,4 +16,10 @@ app.py - File for graphical interface<br/>
 password_generator.py - File for generate password<br/>
 confif.xml - Setting file<br/>
 
+# Ideas for improvement
+Create a graphical interface using classes<br/>
+Create a database to remember passwords in hash<br/>
+More options for choosing a password<br/>
+
+
 
